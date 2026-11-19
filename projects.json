@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Login System",
+    "description": "My login system is a simple and user-friendly website that allows users to enter their username and password to access to their accounts.",
+    "technologies": ["HTML", "CSS"],
+    "role": "Developer and designer",
+    "screenshot": "images/project1.jpeg",
+    "link": "https://lykataguding.github.io/login/"
+  },
+  {
+    "title": "Personal Website",
+    "description": "My personal website is all about me, my skills, and the special moments I share with my family and friends. It shows a little part of who I am and the people who are important to me.",
+    "technologies": ["HTML", "CSS"],
+    "role": "Designer and developer",
+    "screenshot": "images/project2.png",
+    "link": "https://lykataguding.github.io/personal-website/"
+  },
+{
+  "title": "AttendEase - Attendance Management System",
+  "description": "AttendEase is an attendance management application that helps teachers manage classes, monitor students, and record attendance. It is available as a web and Android application.",
+  "technologies": ["HTML", "CSS", "JavaScript", "Firebase", "Capacitor"],
+  "role": "Developer",
+  "screenshot": "images/project3.png",
+  "link": "https://github.com/lykataguding/AttendEase",
+  "liveLink": "https://attendease-b2c7a.web.app",
+  "apkLink": "https://github.com/lykataguding/AttendEase/raw/refs/heads/main/apk/app-debug.apk"
+}
+]
